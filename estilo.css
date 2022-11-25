@@ -1,0 +1,12 @@
+body{
+    background: rgb(10, 129, 150);
+    color: rgb(7, 28, 85);
+}
+
+.cuadro1{
+    background:aquamarine
+}
+
+.cuadro1 img {
+    width: 100%;
+}
